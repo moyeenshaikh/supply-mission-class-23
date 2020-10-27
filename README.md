@@ -1,1 +1,1 @@
-# supply-mission-class-23
+# SupplyMission
